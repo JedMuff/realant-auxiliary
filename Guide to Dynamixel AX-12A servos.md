@@ -11,6 +11,8 @@ Address	Size (Byte)	Data Name	Description	Access	Initial value
 The DYNAMIXEL ID is used to identify the device in the network on the Dynamixel bus, and must thus be a unique value for each device. Thus, the default ID of 1 must be changed if multiple AX-12 servos are used. The DYNAMIXEL ID 200 is the default ID for the OpenCM9.04 controller and should thus not be assigned to any other device.
 The Baud Rate determines the communication speed on the Dynamixel network (servos and a control board), and the initial value of 1 corresponds to 1 000 000 bps. For the baud rate of other values see the e-Manual.
 The clockwise and counter-clockwise angle limits are used to limit the rotation range.  The initial values of 0 and 1023 should not limit the joint motion, but if the servos for some reason have restricted motion when they are taken in use, this parameter should be checked and changed if necessary. See picture from e-Manual below for angles corresponding to range 0 – 1023:
+
+![TheRealestAnt](/../master/media/images/AX-12A_motion_range.png?raw=true)
  
 
 ## Accessing the Control Table via the OpenCM9.04 controller
