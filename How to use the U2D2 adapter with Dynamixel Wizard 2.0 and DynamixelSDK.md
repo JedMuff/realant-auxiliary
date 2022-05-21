@@ -4,6 +4,9 @@
 1)	Connect the U2D2 to the computer via the provided USB-MicroUSB cable.
 2)	Connect the U2D2 to the Dynaxmixel AX-12A servo using the 3-pin TTL cable.
 3)	Power the servo(s) with a switched-mode power supply (SMPS), via the SMPS2Dynamixel board, using another 3-pin cable.
+
+![TheRealestAnt](/../master/media/images/U2D2_connection_1.png?raw=true)
+![TheRealestAnt](/../master/media/images/U2D2_connection_2.png?raw=true)
          
 ## Configuring the servo in Dynamixel Wizard 2.0
 Install the DynamixelWizard 2.0 program following the instructions for your operating system in https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/.  
