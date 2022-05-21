@@ -10,7 +10,7 @@
 ## Configuring the servo in Dynamixel Wizard 2.0
 Install the DynamixelWizard 2.0 program following the instructions for your operating system in https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/.  
 In the wizard click options and select for which settings you want to scan for servos:  
-<img src="https://github.com/DarQTimer/TheRealestAnt/blob/master/media/images/Wizard_scan.png" width="600">
+<img src="https://github.com/DarQTimer/TheRealestAnt/blob/master/media/images/Wizard_scan.png" width="400">
  
 For example, the range of baud rates or IDs can be reduced for faster if you know what you are looking for. Scan for Dynamixels. When the servo(s) you have connected are found you will see a list of Dynamixels to the left and the settings of the chosen servo in the middle of the screen:  
 <img src="https://github.com/DarQTimer/TheRealestAnt/blob/master/media/images/Wizard_interface_1.png" width="600">
