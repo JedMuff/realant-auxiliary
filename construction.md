@@ -43,9 +43,11 @@
 ![primingLegs](/media/images/primingLegs.png)
 
 **Step 1.1 (Optional) Fixing the soft Legs** - If you have opted for the soft legs, this is where the attachments are fitted on. This is simply done by sliding it onto the leg.
+
 ![softleg](/media/images/softleg.png)
 
 **Step 2 Priming the OpenCM Board** - Solder on the TTL headers (x4 all facing the same direction) onto the OpenCM Board.
+
 ![primingOpenCM](/media/images/primingOpenCM.png)
 
 **Step 3 Priming the SMPS2Dynamixel Board** - The SMPS2Dynamixel Board is prepared by cutting small holes in the film where 2 screw holes are. It is the two screw holes closest to the power connector. These holes are needed for mounting the board.
