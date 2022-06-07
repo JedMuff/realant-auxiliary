@@ -49,6 +49,7 @@ Other address parameter names than ID, CW_ANGLE_LIMIT and CCW_ANGLE_LIMIT presen
 If writing directly to the control table is needed, e.g. to set some CW and CCW limits if full range of motion is not desired, a similar function called writeControlTableItem() can be used. This function can also be found in the OpenCM9.04 e-Manual under 8.4.1.1 Dynamixel2ArduinoClass > WriteControlTableItem(), or in the following link:
 https://emanual.robotis.com/docs/en/popup/arduino_api/writeControlTableItem/ 
 
+See **/code/servo_config_code/** and **/code/general_test_codes/** for examples.
 ## Sources:
 AX-12A e-Manual: https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/  
 OpenCM9.04 e-Manual: https://emanual.robotis.com/docs/en/parts/controller/opencm904/  
