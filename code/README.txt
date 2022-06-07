@@ -23,4 +23,6 @@ How to use:
 2)	Change line 20 in ant_server.py to reflect the USB port used
 3)	Run from the command line the following scripts: antproxy.py, ant_server.py, and tester.py or commander.py
 
-The ant11_cmd_dxl.ino is the Arduino code for the OpenCM9.04 control board, and it is unchanged from the version found in the original RealAnt. The .ino files in the folders "general_test_codes" and "servo_config_code" are not needed to run the robot, but they can be used to configure and test Dynamixel AX-12A servos via the OpenCM9.04 control board.
+The ant11_cmd_dxl.ino is the Arduino code for the OpenCM9.04 control board, and it is unchanged from the version found in the original RealAnt.
+The .ino files in the folders "general_test_codes" and "servo_config_code" are not needed to run the robot, but they can be used to configure and test  
+Dynamixel AX-12A servos via the OpenCM9.04 control board.
