@@ -18,15 +18,15 @@ More detailed documentation on contruction and usage where made, this can be fou
 
 # Structure of the GitHub
 The key folders in this repository are described below:
-/*:
-- **appendix:** Contains files made for the module. '1-10_Final_report_E8004_2022_signed.pdf' file gives a good overview of the project and some more detailed descriptions of the parts made.
+
+- **appendix:** Contains files made for the module. **'1-10_Final_report_E8004_2022_signed.pdf'** file gives a good overview of the project and some more detailed descriptions of the parts made.
 - **archive:** Is a copy of the RealAnt repo at the current period of this project. Serves as a good reference and keeping the project whole. https://github.com/OteRobotics/realant 
 - **code:** Contains all the code needed for running the robot, including some simple gaits for testing. The **README** contained within provides more details.
 - **docs:** Contains all the documentation for constructing and using the robot. The **README** contained within provides more details.
 - **media:** Some images used in the documentation with some additional bonus images of the robot. Also contains a video made about the project. 
-- **stl_softparts:** Contains the soft parts made. See **README** contained within for more details.
-- **stl_standard:** Contains the improved parts made. See **README** contained within for more details.
-*/
+- **stl_softparts:** Contains the soft parts made. See **docs** and **'1-10_Final_report_E8004_2022_signed.pdf'** results section for more details.
+- **stl_standard:** Contains the improved parts made. See **docs** and **'1-10_Final_report_E8004_2022_signed.pdf'** results section for more details.
+
 # Links
 **Intelligent Robotics Research Group Webpage:** https://irobotics.aalto.fi/ 
 
