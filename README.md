@@ -38,6 +38,8 @@ The key folders in this repository are described below:
 
 **Research group page about this project:** https://irobotics.aalto.fi/building-a-quadruped-robot/
 
+**Reinforcement Learning with RealAnt** – https://github.com/AaltoVision/realant-rl
+
 # Resources
 **AX12A - EManual:** https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/
 
