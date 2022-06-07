@@ -26,5 +26,4 @@ How to use:
 
 The **ant11_cmd_dxl.ino** is the Arduino code for the OpenCM9.04 control board, and it is unchanged from the version found in the original RealAnt.
 
-The .ino files in the folders "general_test_codes" and "servo_config_code" are not needed to run the robot, but they can be used to configure and test  
-Dynamixel AX-12A servos via the OpenCM9.04 control board. More details are found under **/docs/dynamixel_A12A_guide.md** heading **'Accessing the Control Table via the OpenCM9.04 controller'**.
+The .ino files in the folders "general_test_codes" and "servo_config_code" are not needed to run the robot, but they can be used to configure and test Dynamixel AX-12A servos via the OpenCM9.04 control board. More details are found under **/docs/dynamixel_A12A_guide.md** heading **'Accessing the Control Table via the OpenCM9.04 controller'**.

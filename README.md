@@ -25,7 +25,7 @@ The key folders in this repository are described below:
 - **docs:** Contains all the documentation for constructing and using the robot. The **README** contained within provides more details.
 - **media:** Some images used in the documentation with some additional bonus images of the robot. Also contains a video made about the project. 
 - **stl_softparts:** Contains the soft parts made. See **docs** and **'1-10_Final_report_E8004_2022_signed.pdf'** results section for more details.
-- **stl_standard:** Contains the improved parts made. See **docs** and **'1-10_Final_report_E8004_2022_signed.pdf'** results section for more details.
+- **stl_standard:** Contains the improved parts made. A modified spacer was added that improves the fit to the leg. See **docs** and **'1-10_Final_report_E8004_2022_signed.pdf'** results section for more details on other parts.
 
 # Links
 **Intelligent Robotics Research Group Webpage:** https://irobotics.aalto.fi/ 
@@ -40,5 +40,7 @@ The key folders in this repository are described below:
 
 # Resources
 **AX12A - EManual:** https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/
+
 **AX12 - Usermanual:** https://www.crustcrawler.com/products/bioloid/docs/AX-12.pdf
+
 **OpenCM 9.04 - EManual:** https://emanual.robotis.com/docs/en/parts/controller/opencm904/
