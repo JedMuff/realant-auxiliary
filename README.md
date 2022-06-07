@@ -12,7 +12,7 @@ With the RealAnt design, issues with robustness and usability were identified. T
 ![product](/media/images/product.png)
 See also '/appendix/1-10_Final_report_E8004_2022_signed.pdf' results section for some more detailed documentation about the designs.
 
-Additionally with an improved robot design, some code was developed that utilized DYNAMIXELAX12 actuators to produce walking gaits and gestures the quadruped robot could use for initial functionality testing (see 'code' folder). 
+Additionally with an improved robot design, some code was developed that utilized DYNAMIXEL AX-12A actuators to produce walking gaits and gestures the quadruped robot could use for initial functionality testing (see 'code' folder). 
 
 More detailed documentation on contruction and usage where made, this can be found in the docs folder. 
 
