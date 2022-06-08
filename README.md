@@ -31,9 +31,9 @@ The key folders in this repository are described below:
 
 **Reinforcement Learning with RealAnt** – https://github.com/AaltoVision/realant-rl
 
-**Intelligent Robotics Research Group Webpage:** https://irobotics.aalto.fi/ 
+**RealAnt Auxiliary GitHub:** https://github.com/JedMuff/realant-auxiliary
 
-**TheRealestAnt GitHub:** https://github.com/JedMuff/TheRealestAnt
+**Intelligent Robotics Research Group Webpage:** https://irobotics.aalto.fi/ 
 
 **Wiki page:** https://wiki.aalto.fi/display/AEEproject/Building+a+quadruped+robot+for+reinforcement+learning+research
 
