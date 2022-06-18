@@ -11,7 +11,7 @@ The repository provides improvements relating to robustness and usability. These
 
 Additionally with an improved robot design, some code was developed that utilized DYNAMIXEL AX-12A actuators to produce walking gaits and gestures the quadruped robot could use for initial functionality testing (see 'code' folder). 
 
-[![Watch the video](https://img.youtube.com/vi/h07QOblhzB0/default.jpg)](https://www.youtube.com/watch?v=h07QOblhzB0)
+Watch the youtube video here: https://www.youtube.com/watch?v=h07QOblhzB0.
 
 ![product](/media/images/product.png)
 
