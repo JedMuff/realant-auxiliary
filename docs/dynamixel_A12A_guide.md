@@ -55,3 +55,8 @@ AX-12A e-Manual: https://emanual.robotis.com/docs/en/dxl/ax/ax-12a/
 OpenCM9.04 e-Manual: https://emanual.robotis.com/docs/en/parts/controller/opencm904/  
 OpenCM9.04 Accessory Set: https://www.robotis.us/opencm9-04-connectors-and-accessory-set/  
 SMPS2Dynamixel adapter: https://www.robotis.us/smps2dynamixel/  
+
+# Copyright and License
+
+Licensed under MIT licence, see LICENSE for details.
+Copyright (c) 2023 Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä under MIT license. 

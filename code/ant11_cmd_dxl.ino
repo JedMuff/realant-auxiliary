@@ -1,3 +1,6 @@
+// Licensed under MIT licence, see LICENSE for details.
+// Copyright Ote Robotics Ltd. 2020
+
 // log: 
 //  20180114 - the ant has risen! all the servos turning at once consume about 4A @ 5V (!)
 //  20180819 - hw functions properly

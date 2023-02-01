@@ -91,3 +91,8 @@
 
 **Step 13 (Optional) Adding the Stand** - The stand can be added using a 10 mm M3 screw, some force may be required to drill into the screw hole. The lid needs to be removed to perform this step.
 ![stand](/media/images/stand.png)
+
+# Copyright and License
+
+Licensed under MIT licence, see LICENSE for details.
+Copyright (c) 2023 Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä under MIT license. 

@@ -1,5 +1,5 @@
 # Licensed under MIT licence, see LICENSE for details.
-# Copyright Ote Robotics Ltd. 2020
+# Copyright Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä. 2023
 
 import zmq #library for communication with the robot
 import time #for timing

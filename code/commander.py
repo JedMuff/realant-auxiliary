@@ -1,3 +1,6 @@
+# Licensed under MIT licence, see LICENSE for details.
+# Copyright Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä. 2023
+
 # - The keypresses do not require Ctrl+C to be pressed to exit a loop  (keyboard module needed!)
 #  >> The keyboard module is needed for this! Install in Windows with "pip install keyboard"
 # - A separate move_set.py file is used to store moves that are called by pressing keys 1-9

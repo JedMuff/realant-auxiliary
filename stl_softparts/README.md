@@ -21,3 +21,10 @@ The leg piece simply substitutes soft filiment where necessary.
 The body plate protenction is in the form of simple soft tubes attached to the actuator connector with metal wire.
 ![fixdamper_4](/media/images/fixdamper_4.png)
 
+# Copyright and License
+
+leg.stl - Copyright (c) 2020 with Ote Robotics Ltd and Aalto University. Under MIT license. Copyright (c) 2023 Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä. Under MIT license.
+
+leg_damper.stl, round_joint_damper.stl - Copyright (c) 2023 Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä. Under MIT license.
+
+See LICENSE for details.

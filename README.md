@@ -53,4 +53,10 @@ If you want to contribute to this repo or need any help these are the people to 
 **OpenCM 9.04 - EManual:** https://emanual.robotis.com/docs/en/parts/controller/opencm904/
 
 **Credits**:
-Jed Muff, Jere Vepsä, Eric Hannus, Antti Sippola, Julius Mikala, Rituraj Kaushik
+Jed Muff, Jere Vepsä, Eric Hannus, Antti Sippola, Julius Mikala, Rituraj Kaushik, Ote Robotics
+
+# Copyright and License
+
+The files in this repository share files with the original [RealAnt](https://github.com/OteRobotics/realant) repository. As such the repository shares Copyright (c) 2020 with Ote Robotics Ltd and Aalto University and is licensed under MIT license. To the best of our ability we have labelled which files belong under the Ote Robotics Ltd license and which files come under the authors of this repository Copyright (c) 2023 Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä.
+
+See LICENSE for details.

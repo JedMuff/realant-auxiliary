@@ -12,3 +12,9 @@ This folder contains the following files:
 The robot consists of a cover and base plates, to protect and structure the robot and legs for the robot to walk on. Both plates and leg parts are made with a 3D printer. The robot utilizes eight Dynamixel AX-12A servos for movements, two in each leg, and has eight degrees of freedom. 
 
 Movements are sent by the Arduino based OpenCM9.04 control board and powered by a SMPS2Dynamixel power supply connector. The robot is controlled by a computer with a serial connection via USB cable using python scripts. A visual orientation tracker can be added on top of the robot's cover plate.
+
+# Copyright and License
+
+All documentation in realant-auxiliary/docs/ is Copyright (c) 2023 Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä under MIT license. 
+
+See LICENSE for details.See LICENSE for details.

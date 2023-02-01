@@ -1,6 +1,5 @@
 # Licensed under MIT licence, see LICENSE for details.
-# Copyright Ote Robotics Ltd. 2020
-
+# Copyright Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä. 2023
 
 #IN THIS VERSION (commander5.py)
 # - The keypresses do not require Ctrl+C to be pressed to exit a loop  (keyboard module needed!)

@@ -38,3 +38,7 @@ SMPS2Dynamixel: https://www.robotis.us/smps2dynamixel/
 Dynamixel Wizard 2.0 e-Manual: https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_wizard2/  
 DynamixelSDK: https://github.com/ROBOTIS-GIT/DynamixelSDK  
 
+# Copyright and License
+
+Licensed under MIT licence, see LICENSE for details.
+Copyright (c) 2023 Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä under MIT license. 

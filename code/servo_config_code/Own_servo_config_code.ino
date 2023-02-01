@@ -1,3 +1,6 @@
+// Licensed under MIT licence, see LICENSE for details.
+// Copyright Jed Muff, Eric Hannus, Antti Sippola, Julius Mikala, Jere Vespä. 2023
+
 #include <Dynamixel2Arduino.h>
 
 //Board settings
